@@ -14,6 +14,6 @@ const matches3 = text3.match(pattern3)
 console.log(matches3)
 
 const phone = /[0-9]{10}/;
-const text4 = 'My phone number is 0790407966'
+const text4 = 'My phone number is 0790674655'
 const matches4 = text4.match(phone)
 console.log(matches4)
